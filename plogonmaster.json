@@ -3,7 +3,7 @@
         "Author": "darkarchon",
         "Name": "Mare Synchronos (UniversalConquistador build)",
         "InternalName": "MareSynchronosUC",
-        "AssemblyVersion": "0.11.23",
+        "AssemblyVersion": "0.11.24",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
@@ -16,8 +16,8 @@
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/universalconquistador/MareSynchronosClient/releases/download/0.11.23/MareSynchronos.zip",
-        "DownloadLinkTesting": "https://github.com/universalconquistador/MareSynchronosClient/releases/download/0.11.23/MareSynchronos.zip",
-        "DownloadLinkUpdate": "https://github.com/universalconquistador/MareSynchronosClient/releases/download/0.11.23/MareSynchronos.zip"
+        "DownloadLinkInstall": "https://github.com/universalconquistador/MareSynchronosRepo/releases/download/0.11.24/MareSynchronosUC.zip",
+        "DownloadLinkTesting": "https://github.com/universalconquistador/MareSynchronosRepo/releases/download/0.11.24/MareSynchronosUC.zip",
+        "DownloadLinkUpdate": "https://github.com/universalconquistador/MareSynchronosRepo/releases/download/0.11.24/MareSynchronosUC.zip"
       }
 ]
